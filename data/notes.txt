@@ -1,5 +1,0 @@
-RAG stands for Retrieval Augmented Generation.
-It combines search and AI generation.
-FAISS is used for similarity search.
-Streamlit is used for UI.
-Embeddings convert text into vectors.
